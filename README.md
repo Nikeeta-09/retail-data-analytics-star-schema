@@ -125,6 +125,6 @@ This project strengthened practical skills in:
 
 ## Author
 
-Avinash D
-Master of Applied Technologies
+Nikeeta Kumari
+-
 Unitec Institute of Technology
